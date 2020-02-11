@@ -1,5 +1,5 @@
 variable "prefix" {
-  default = "infraDemoVM"
+  default = "infraDemoVM1"
 }
 
 resource "azurerm_resource_group" "main" {
